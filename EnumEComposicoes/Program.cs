@@ -10,6 +10,7 @@ namespace EnumEComposicoes
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Yuri é Rei.");
         }
     }
 }

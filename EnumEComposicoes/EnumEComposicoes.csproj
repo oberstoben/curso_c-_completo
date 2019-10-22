@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="aula115\Enumeracao.cs" />
+    <Compile Include="Entities\Department.cs" />
+    <Compile Include="Entities\Enums\OrderStatus.cs" />
+    <Compile Include="Entities\Enums\WorkerLevel.cs" />
+    <Compile Include="Entities\HourContract.cs" />
+    <Compile Include="Entities\Order.cs" />
+    <Compile Include="Entities\Worker.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
